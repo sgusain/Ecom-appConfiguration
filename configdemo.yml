@@ -1,0 +1,13 @@
+app:
+  name: configdemo
+  env: default
+
+build:
+  id: 0001
+  name: Default-Build
+  version: 1.0.0
+  type: DEFAULT
+
+logging:
+  level:
+    root: INFO
