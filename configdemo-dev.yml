@@ -1,0 +1,9 @@
+build:
+  id: 0002
+  name: Dev-Build
+  version: 1.0.0-dev
+  type: DEVELOPMENT
+
+logging:
+  level:
+    root: DEBUG
