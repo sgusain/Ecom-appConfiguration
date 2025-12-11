@@ -1,0 +1,9 @@
+build:
+  id: 0003
+  name: Prod-Build
+  version: 1.0.0
+  type: PRODUCTION
+
+logging:
+  level:
+    root: WARN
